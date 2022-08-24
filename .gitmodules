@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "UCell"]
+	path = UCell
+	url = https://github.com/carmonalab/ucell
+	shallow = true
+	registered = true
