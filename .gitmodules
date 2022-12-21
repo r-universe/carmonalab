@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "scGate"]
+	path = scGate
+	url = https://github.com/carmonalab/scgate
+	shallow = true
+	registered = true
 [submodule "UCell"]
 	path = UCell
 	url = https://github.com/carmonalab/ucell
