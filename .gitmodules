@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "scGate"]
-	path = scGate
-	url = https://github.com/carmonalab/scgate
 [submodule "UCell"]
 	path = UCell
 	url = https://github.com/carmonalab/ucell
+[submodule "scGate"]
+	path = scGate
+	url = https://github.com/carmonalab/scgate
