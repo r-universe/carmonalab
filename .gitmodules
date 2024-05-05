@@ -5,9 +5,6 @@
 [submodule "GeneNMF"]
 	path = GeneNMF
 	url = https://github.com/carmonalab/genenmf
-[submodule "UCell"]
-	path = UCell
-	url = https://github.com/carmonalab/ucell
 [submodule "scGate"]
 	path = scGate
 	url = https://github.com/carmonalab/scgate
