@@ -1,10 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/carmonalab/carmonalab.r-universe.dev
 	branch = HEAD
 [submodule "GeneNMF"]
 	path = GeneNMF
-	url = https://github.com/carmonalab/genenmf
+	url = https://github.com/carmonalab/GeneNMF
+[submodule "UCell"]
+	path = UCell
+	url = https://github.com/carmonalab/UCell
 [submodule "scGate"]
 	path = scGate
-	url = https://github.com/carmonalab/scgate
+	url = https://github.com/carmonalab/scGate
