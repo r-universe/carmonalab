@@ -8,6 +8,9 @@
 [submodule "STACAS"]
 	path = STACAS
 	url = https://github.com/carmonalab/STACAS
+[submodule "SignatuR"]
+	path = SignatuR
+	url = https://github.com/carmonalab/SignatuR
 [submodule "UCell"]
 	path = UCell
 	url = https://github.com/carmonalab/UCell
