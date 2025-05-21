@@ -5,6 +5,9 @@
 [submodule "GeneNMF"]
 	path = GeneNMF
 	url = https://github.com/carmonalab/GeneNMF
+[submodule "ProjecTILs"]
+	path = ProjecTILs
+	url = https://github.com/carmonalab/ProjecTILs
 [submodule "STACAS"]
 	path = STACAS
 	url = https://github.com/carmonalab/STACAS
