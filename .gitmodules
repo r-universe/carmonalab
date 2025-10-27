@@ -17,6 +17,9 @@
 [submodule "UCell"]
 	path = UCell
 	url = https://github.com/carmonalab/UCell
+[submodule "scECODA"]
+	path = scECODA
+	url = https://github.com/carmonalab/scECODA
 [submodule "scGate"]
 	path = scGate
 	url = https://github.com/carmonalab/scGate
