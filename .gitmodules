@@ -23,3 +23,6 @@
 [submodule "scGate"]
 	path = scGate
 	url = https://github.com/carmonalab/scGate
+[submodule "scTypeEval"]
+	path = scTypeEval
+	url = https://github.com/carmonalab/scTypeEval
